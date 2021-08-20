@@ -6,5 +6,5 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 
 ## Clases (Práctico)
 
-- [Clase 1](https://youtu.be/Vr1aTBJw4vY): Indexación en Python, Ejercicios 1 y 2 de Práctico 1.
+- [Clase 1](https://youtu.be/Vr1aTBJw4vY): Indexación en Python, Ejercicios 1 y 2 del [Práctico 1](./practicos/practico1.pdf).
 
