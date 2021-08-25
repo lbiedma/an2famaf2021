@@ -23,3 +23,18 @@ def soltrinffil(A, b):
 #     if b[idx] != 0:
 #         j = idx
 #         break
+
+def soltrsupcol(A, b):
+    n = len(b)
+    x = b.copy()
+
+    for idx in reversed(range(n)):
+        if b[idx] != 0:
+            j = idx
+            break
+
+    for i in reversed(range(j + 1)):
+        x[i] = x[i] / A[i, i]
+        x[:i] = x[:i] - A[:i, i] * x[i]
+
+    return x
