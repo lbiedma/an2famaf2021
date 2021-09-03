@@ -1,20 +1,9 @@
+import sys
+sys.path.append("..")
+
 import numpy as np
+from practico1.p1ej3 import soltrsupcol
 from p2ej9 import egaussp
-
-def soltrsupcol(A, b):
-    n = len(b)
-    x = b.copy()
-
-    for idx in reversed(range(n)):
-        if b[idx] != 0:
-            j = idx
-            break
-
-    for i in reversed(range(j + 1)):
-        x[i] = x[i] / A[i, i]
-        x[:i] = x[:i] - A[:i, i] * x[i]
-
-    return x
 
 def sol_egauss(A, b):
     U, y = egaussp(A, b)
