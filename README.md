@@ -17,3 +17,5 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 - [Clase 5](https://youtu.be/6AxQm07MgUs): Ejercicios 1 al 4 [Práctico 2](./practicos/practico2.pdf) y Eliminación Gaussiana con Pivoteo. [Jamboard](https://jamboard.google.com/d/1lwOJoHYxQcYRn3zUuO6-SInW0GLUkDt4iNxsVEVFvho/)
 
 - [Clase 6](https://youtu.be/BiDef8WAhd0): Importación de archivos de otras Carpetas en Python, Ejercicio 7 y ayudas para los últimos ejercicios del [Práctico 2](./practicos/practico2.pdf) y Descomposición LU con Pivoteo. [Jamboard](https://jamboard.google.com/d/12nQoCbr4Zjvedsssyt6sptvEBp167FJoUO10gPbldDU/)
+
+- [Clase 7](https://youtu.be/NJT1O6O0Hh8): Ejercicios 2 y 15 del [Práctico 2](./practicos/practico2.pdf), resumen y comienzo del Ejercicio 2 del [Práctico 3](./practicos/practico3.pdf). [Jamboard](https://jamboard.google.com/d/1bl3YplYM82ZAc1jQZNLW8R_IpdrQs5SOyIFGuc2sfFA)
