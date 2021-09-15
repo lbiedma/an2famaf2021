@@ -1,3 +1,4 @@
 *.ipynb_checkpoints
 correcciones
 *__pycache__
+*.vscode
