@@ -27,8 +27,8 @@ def qrgivensp(A):
 
                 R[[j, i], j:] = G @ R[[j, i], j:]
                 Q[:, [j, i]] = Q[:, [j, i]] @ G.T
-                # Actualización de c_norm
-                c_norm[j:] = c_norm[j:] - R[j, j:] * R[j, j:]
+        # Actualización de c_norm SOLO UNA VEZ DESPUES DE ACTUALIZAR FILAS (error de Luis)
+        c_norm[j:] = c_norm[j:] - R[j, j:] * R[j, j:]
 
     if m <= n and R[m - 1, m - 1] < 0:
         # J = m:
