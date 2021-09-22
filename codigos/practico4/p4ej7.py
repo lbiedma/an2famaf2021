@@ -23,8 +23,8 @@ def sol_cuadmin(A, b):
     return (P @ y, np.linalg.norm(q[p:]))
 
 # TEST para sol_cuadmin
-A = np.random.random((5, 5))
-b = np.random.random(5)
+A = np.random.random((6, 3))
+b = np.random.random(6)
 x, res_2 = sol_cuadmin(A, b)
 
 sol = np.linalg.lstsq(A, b)
