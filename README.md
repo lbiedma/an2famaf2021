@@ -27,3 +27,5 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 - [Clase 10](https://youtu.be/nc8UDeO-Bbc): Ejercicios 2, 3 y 5 del [Práctico 4](./practicos/practico4.pdf). [Jamboard](https://jamboard.google.com/d/1L9iGm4W9dijEEBiHN2b4NkmLBcgpfsepeuBJGZIq8IE)
 
 - [Clase 11](https://youtu.be/N1XrxslnPK4): Ejercicios 6, 7, ideas del 8a y el 9 del [Práctico 4](./practicos/practico4.pdf). [Jamboard](https://jamboard.google.com/d/1gstN4466tvskKobKK1n6fBrgnkskjvPcTnKgnwee1QA/viewer)
+
+- [Clase 12](https://youtu.be/unutFMnht2I): Ejercicios 8, 9 y 10 del [Práctico 4](./practicos/practico4.pdf). [Jamboard](https://jamboard.google.com/d/1seA6hu87yFIWL64Y2NVOT5oGuuadzcqLKZJ9mdQmvYU)
