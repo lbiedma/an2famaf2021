@@ -37,4 +37,25 @@ def plotear_matriz_b():
     plt.legend(["determinantes", "numeros de condicion"])
     plt.show()
 
-plotear_matriz_b()
+def ejercicio_c(eps):
+    A = np.array([[1., 1 - eps], [0, 1]])
+    B = np.array([[1 / eps, 0], [0, eps]])
+
+    r = np.linspace(0, 2 * np.pi, 100)
+    x = np.cos(r)
+    y = np.sin(r)
+
+    trans_A = A @ np.vstack([x, y])
+    trans_B = B @ np.vstack([x, y])
+
+    plt.plot(x, y, label="bola unidad")
+    plt.plot(trans_A[0, :], trans_A[1, :], label="transformacion por A")
+    plt.plot(trans_B[0, :], trans_B[1, :], label="transformacion por B")
+    plt.axis("equal")
+    plt.legend()
+    plt.show()
+
+#plotear_matriz_a()
+#plotear_matriz_b()
+
+ejercicio_c(1e-5)
