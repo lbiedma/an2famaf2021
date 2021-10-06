@@ -32,3 +32,6 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 
 - [Clase 13](https://youtu.be/FrgeOvj1oLg): Repaso de ejercicios de Prácticos y 1 ejercicio de parcial viejo. [Jamboard](https://jamboard.google.com/d/1ohNJ4Y13Rx6Tv3mqo47tDbmpc842RjBTUD2Q-wYEepo)
 
+- Clase 14: Parcial
+
+- [Clase 15](https://youtu.be/FinBRAhrBgE): Ejercicios 1, 2 y 4 del [Práctico 5](./practicos/practico5.pdf). [Jamboard](https://jamboard.google.com/d/1LCKvGBbImAvIKvkRNZnUlsSKtJ0dHjtvm5_xd0wmNCQ)
