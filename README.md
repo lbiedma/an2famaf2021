@@ -35,3 +35,5 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 - Clase 14: Parcial
 
 - [Clase 15](https://youtu.be/FinBRAhrBgE): Ejercicios 1, 2 y 4 del [Práctico 5](./practicos/practico5.pdf). [Jamboard](https://jamboard.google.com/d/1LCKvGBbImAvIKvkRNZnUlsSKtJ0dHjtvm5_xd0wmNCQ)
+
+- [Clase 16](https://youtu.be/n6TYztxVLIQ): Ejercicios 3, 4 y 5 del [Práctico 5](./practicos/practico5.pdf). [Jamboard](https://jamboard.google.com/d/1pLXIw4h1lJGdBuAjijGCORDPOQTM2z3SXCSNB5oGwbE)
