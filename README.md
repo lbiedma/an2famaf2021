@@ -37,3 +37,5 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 - [Clase 15](https://youtu.be/FinBRAhrBgE): Ejercicios 1, 2 y 4 del [Práctico 5](./practicos/practico5.pdf). [Jamboard](https://jamboard.google.com/d/1LCKvGBbImAvIKvkRNZnUlsSKtJ0dHjtvm5_xd0wmNCQ)
 
 - [Clase 16](https://youtu.be/n6TYztxVLIQ): Ejercicios 3, 4 y 5 del [Práctico 5](./practicos/practico5.pdf). [Jamboard](https://jamboard.google.com/d/1pLXIw4h1lJGdBuAjijGCORDPOQTM2z3SXCSNB5oGwbE)
+
+- [Clase 17](https://youtu.be/11dKx_cGCmc): Ejercicios 6, 7 y 8 del [Práctico 5](./practicos/practico5.pdf). [Jamboard](https://jamboard.google.com/d/1l8vta3tw3mxndCo4Z2j1Swfl4ZPX6_IfcmdjQzX5GCQ)
