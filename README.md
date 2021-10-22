@@ -42,3 +42,6 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 
 - [Clase 18](https://youtu.be/amsJ9Lj6xtg): Ejercicios 13 y 14 del [Práctico 5](./practicos/practico5.pdf). No hubo Jamboard
 
+- [Clase 19](https://youtu.be/N0SIiuZei6U): Ejercicios 2 y 3 del [Práctico 6](./practicos/practico6.pdf). [Jamboard](https://jamboard.google.com/d/1BSNJoyL2oGWhkQCGSal3faqsPI_1C9pK152xxPu5pus)
+
+
