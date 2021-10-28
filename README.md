@@ -44,7 +44,7 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 
 - [Clase 19](https://youtu.be/N0SIiuZei6U): Ejercicios 2 y 3 del [Práctico 6](./practicos/practico6.pdf). [Jamboard](https://jamboard.google.com/d/1BSNJoyL2oGWhkQCGSal3faqsPI_1C9pK152xxPu5pus)
 
-- [Clase 20](): Ejercicios 4, 5 (Gastinel) y 6 del [Práctico 6](./practicos/practico6.pdf). [Jamboard](https://jamboard.google.com/d/1x5mziAQDOQS7QV3Jk6V4BlaQDtVKJQcCO2F1wniPGaY)
+- [Clase 20](https://youtu.be/zO3kC1brIeg): Ejercicios 4, 5 (Gastinel) y 6 del [Práctico 6](./practicos/practico6.pdf). [Jamboard](https://jamboard.google.com/d/1x5mziAQDOQS7QV3Jk6V4BlaQDtVKJQcCO2F1wniPGaY)
 
 
 
