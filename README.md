@@ -46,5 +46,5 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 
 - [Clase 20](https://youtu.be/zO3kC1brIeg): Ejercicios 4, 5 (Gastinel) y 6 del [Práctico 6](./practicos/practico6.pdf). [Jamboard](https://jamboard.google.com/d/1x5mziAQDOQS7QV3Jk6V4BlaQDtVKJQcCO2F1wniPGaY)
 
-- [Clase 21](): Ejercicios 7 y 9 del [Práctico 6](./practicos/practico6.pdf). [Notebook](https://colab.research.google.com/drive/1UABx1HvTPTbW_MXe1uYkJY1bBH-QHrac)
+- [Clase 21](https://youtu.be/x6PBgZ8blOI): Ejercicios 7 y 9 del [Práctico 6](./practicos/practico6.pdf). [Notebook](https://colab.research.google.com/drive/1UABx1HvTPTbW_MXe1uYkJY1bBH-QHrac)
 
