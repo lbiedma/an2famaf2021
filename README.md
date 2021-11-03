@@ -48,3 +48,5 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 
 - [Clase 21](https://youtu.be/x6PBgZ8blOI): Ejercicios 7 y 9 del [Práctico 6](./practicos/practico6.pdf). [Notebook](https://colab.research.google.com/drive/1UABx1HvTPTbW_MXe1uYkJY1bBH-QHrac)
 
+- [Clase 22](): Ejercicios 11, 12 y 13 del [Práctico 6](./practicos/practico6.pdf). Sin Pizarra
+
