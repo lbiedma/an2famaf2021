@@ -52,4 +52,4 @@ Acá y en el Classroom iremos subiendo todos los materiales del práctico.
 
 - [Clase 23](https://youtu.be/lvdp_I-coAg): Ejercicios 1, 2 y 3 del [Práctico 7](./practicos/practico7.pdf). Sin Pizarra
 
-- [Clase 24](): Ejercicios 4, 5 y 6 del [Práctico 7](./practicos/practico7.pdf). [Jamboard](https://jamboard.google.com/d/1gyY4E0trNgf6UnUVMM4DFo9mDWjg8O0zWtZ7ddY9yLE)
+- [Clase 24](https://youtu.be/dG6Bjvx0CzI): Ejercicios 4, 5 y 6 del [Práctico 7](./practicos/practico7.pdf). [Jamboard](https://jamboard.google.com/d/1gyY4E0trNgf6UnUVMM4DFo9mDWjg8O0zWtZ7ddY9yLE)
